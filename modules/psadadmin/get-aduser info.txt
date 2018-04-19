@@ -1,0 +1,167 @@
+AccountExpirationDate              :
+accountExpires                     : 9223372036854775807
+AccountLockoutTime                 :
+AccountNotDelegated                : False
+adminCount                         : 1
+AllowReversiblePasswordEncryption  : False
+BadLogonCount                      : 0
+badPasswordTime                    : 131468586092879272
+badPwdCount                        : 0
+c                                  : US
+CannotChangePassword               : False
+CanonicalName                      : aclaw.local/ACL-Users/FL-Use
+Certificates                       : {}
+City                               : Delray Beach
+CN                                 : Manuel A. Brinkord
+co                                 : United States
+codePage                           : 0
+Company                            : Aldridge Pite
+Country                            : US
+countryCode                        : 840
+Created                            : 10/29/2015 11:27:16 AM
+createTimeStamp                    : 10/29/2015 11:27:16 AM
+Deleted                            :
+Department                         : Information Technology
+Description                        : Help Desk Level 2
+DisplayName                        : Manuel A. Brinkord
+DistinguishedName                  : CN=Manuel A. Brinkord,OU=FL-
+Division                           :
+DoesNotRequirePreAuth              : False
+dSCorePropagationData              : {3/2/2017 5:32:18 PM, 3/2/20
+                                     00 PM}
+EmailAddress                       : mbrinkord@aldridgepite.com
+EmployeeID                         : G3ZT4ZY8A2VK12WY
+EmployeeNumber                     :
+employeeType                       : Staff
+Enabled                            : True
+extensionAttribute1                : 6H2009640
+extensionAttribute2                : OH0010
+Fax                                :
+GivenName                          : Manuel
+HomeDirectory                      : \\aclaw.local\ap-dfs\users\m
+HomedirRequired                    : False
+HomeDrive                          : P:
+homeMDB                            : CN=DB02,CN=Databases,CN=Exch
+                                     trative Groups,CN=First Orga
+                                     ation,DC=aclaw,DC=local
+homeMTA                            : CN=Microsoft MTA,CN=ACL-MBX0
+                                     F23SPDLT),CN=Administrative
+                                     Services,CN=Configuration,DC
+HomePage                           : http://www.aldridgepite.com
+HomePhone                          :
+info                               : Cost Center #:  FL-0010
+Initials                           : A
+instanceType                       : 4
+isDeleted                          :
+l                                  : Delray Beach
+LastBadPasswordAttempt             : 8/10/2017 1:10:09 PM
+LastKnownParent                    :
+lastLogoff                         : 0
+lastLogon                          : 131468705152038772
+LastLogonDate                      : 8/10/2017 2:22:52 PM
+lastLogonTimestamp                 : 131468629722765436
+legacyExchangeDN                   : /o=First Organization/ou=Exc
+                                     ents/cn=Manuel A. Brinkord50
+LockedOut                          : False
+lockoutTime                        : 0
+logonCount                         : 6011
+LogonWorkstations                  :
+mail                               : mbrinkord@aldridgepite.com
+mailNickname                       : mbrinkord
+Manager                            : CN=Mischa Uppelschoten,OU=GA
+mDBUseDefaults                     : True
+MemberOf                           : {CN=FLVendorGuest,OU=Distrib
+                                     e,OU=Distributions Groups,DC
+                                     ps,DC=aclaw,DC=local, CN=Ter
+MNSLogonAccount                    : False
+MobilePhone                        :
+Modified                           : 8/10/2017 2:35:06 PM
+modifyTimeStamp                    : 8/10/2017 2:35:06 PM
+msDS-User-Account-Control-Computed : 0
+msExchBlockedSendersHash           : {50, 145, 25, 0...}
+msExchDelegateListBL               : {CN=Apple Airwatch,OU=MDM Ai
+msExchHomeServerName               : /o=First Organization/ou=Exc
+                                     uration/cn=Servers/cn=ACL-MB
+msExchMailboxGuid                  : {0, 116, 172, 88...}
+msExchMailboxSecurityDescriptor    : System.DirectoryServices.Act
+msExchOmaAdminWirelessEnable       : 4
+msExchPoliciesIncluded             : {bb105f30-510b-4019-ad24-e8b
+msExchRBACPolicyLink               : CN=Default Role Assignment P
+                                     rosoft Exchange,CN=Services,
+msExchRecipientDisplayType         : 1073741824
+msExchRecipientTypeDetails         : 1
+msExchTextMessagingState           : {302120705, 16842751}
+msExchUMDtmfMap                    : {emailAddress:627465673, las
+                                     527465673}
+msExchUserAccountControl           : 0
+msExchUserCulture                  : en-US
+msExchVersion                      : 44220983382016
+msExchWhenMailboxCreated           : 10/29/2015 11:29:01 AM
+msRTCSIP-DeploymentLocator         : SRV:
+msRTCSIP-FederationEnabled         : True
+msRTCSIP-InternetAccessEnabled     : True
+msRTCSIP-OptionFlags               : 385
+msRTCSIP-PrimaryHomeServer         : CN=Lc Services,CN=Microsoft,
+                                     ation,DC=aclaw,DC=local
+msRTCSIP-PrimaryUserAddress        : sip:mbrinkord@aclawllp.com
+msRTCSIP-UserEnabled               : True
+msRTCSIP-UserPolicies              : {0=1853226709}
+msTSExpireDate                     : 10/9/2017 2:55:59 PM
+msTSLicenseVersion                 : 393216
+msTSManagingLS                     : 55041-013-6924824-84423
+Name                               : Manuel A. Brinkord
+nTSecurityDescriptor               : System.DirectoryServices.Act
+ObjectCategory                     : CN=Person,CN=Schema,CN=Confi
+ObjectClass                        : user
+ObjectGUID                         : 87b1e63b-99a5-4a70-95d4-4774
+objectSid                          : S-1-5-21-934141781-294320706
+Office                             : Delray Beach, FL
+OfficePhone                        : (561) 288-9525
+Organization                       :
+OtherName                          :
+PasswordExpired                    : False
+PasswordLastSet                    : 7/19/2017 2:20:26 PM
+PasswordNeverExpires               : False
+PasswordNotRequired                : False
+physicalDeliveryOfficeName         : Delray Beach, FL
+POBox                              :
+PostalCode                         : 33445
+PrimaryGroup                       : CN=Domain Users,OU=Security
+primaryGroupID                     : 513
+ProfilePath                        :
+ProtectedFromAccidentalDeletion    : False
+proxyAddresses                     : {sip:mbrinkord@aclawllp.com,
+                                     ite.com}
+pwdLastSet                         : 131449620264793782
+SamAccountName                     : mbrinkord
+sAMAccountType                     : 805306368
+ScriptPath                         : jason.bat
+sDRightsEffective                  : 15
+ServicePrincipalNames              : {}
+showInAddressBook                  : {CN=Default Global Address L
+                                     iner,CN=First Organization,C
+                                     claw,DC=local, CN=All Users,
+                                     st Organization,CN=Microsoft
+                                     al}
+SID                                : S-1-5-21-934141781-294320706
+SIDHistory                         : {}
+SmartcardLogonRequired             : False
+sn                                 : Brinkord
+st                                 : FL
+State                              : FL
+StreetAddress                      : 1615 S. Congress Ave Ste 200
+Surname                            : Brinkord
+telephoneNumber                    : (561) 288-9525
+thumbnailPhoto                     : {255, 216, 255, 224...}
+Title                              : Help Desk Level 2
+TrustedForDelegation               : False
+TrustedToAuthForDelegation         : False
+UseDESKeyOnly                      : False
+userAccountControl                 : 512
+userCertificate                    : {}
+UserPrincipalName                  : mbrinkord@aclaw.local
+uSNChanged                         : 5082142
+uSNCreated                         : 44213
+whenChanged                        : 8/10/2017 2:35:06 PM
+whenCreated                        : 10/29/2015 11:27:16 AM
+wWWHomePage                        : http://www.aldridgepite.com

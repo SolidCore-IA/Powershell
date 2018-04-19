@@ -1,0 +1,79 @@
+AdminPasswordStatus         : 3
+BootupState                 : Normal boot
+ChassisBootupState          : 3
+KeyboardPasswordStatus      : 3
+PowerOnPasswordStatus       : 3
+PowerSupplyState            : 3
+PowerState                  : 0
+FrontPanelResetStatus       : 3
+ThermalState                : 1
+Status                      : OK
+Name                        : APFL-L-0023
+PowerManagementCapabilities :
+PowerManagementSupported    :
+__GENUS                     : 2
+__CLASS                     : Win32_ComputerSystem
+__SUPERCLASS                : CIM_UnitaryComputerSystem
+__DYNASTY                   : CIM_ManagedSystemElement
+__RELPATH                   : Win32_ComputerSystem.Name="APFL-L-0023"
+__PROPERTY_COUNT            : 58
+__DERIVATION                : {CIM_UnitaryComputerSystem, CIM_ComputerSystem, CIM_System, CIM_LogicalElement...}
+__SERVER                    : APFL-L-0023
+__NAMESPACE                 : root\cimv2
+__PATH                      : \\APFL-L-0023\root\cimv2:Win32_ComputerSystem.Name="APFL-L-0023"
+AutomaticManagedPagefile    : True
+AutomaticResetBootOption    : True
+AutomaticResetCapability    : True
+BootOptionOnLimit           :
+BootOptionOnWatchDog        :
+BootROMSupported            : True
+Caption                     : APFL-L-0023
+CreationClassName           : Win32_ComputerSystem
+CurrentTimeZone             : -240
+DaylightInEffect            : True
+Description                 : AT/AT COMPATIBLE
+DNSHostName                 : APFL-L-0023
+Domain                      : aclaw.local
+DomainRole                  : 1
+EnableDaylightSavingsTime   : True
+InfraredSupported           : False
+InitialLoadInfo             :
+InstallDate                 :
+LastLoadInfo                :
+Manufacturer                : Hewlett-Packard
+Model                       : HP EliteBook 840 G2
+NameFormat                  :
+NetworkServerModeEnabled    : True
+NumberOfLogicalProcessors   : 4
+NumberOfProcessors          : 1
+OEMLogoBitmap               :
+OEMStringArray              : {FBYTE#3X47676J6S6b757H7M7Q7W7s7zaBaqawb8bUce.3t;, BUILDID#14WWCSBW601#SABA#DABA;,
+                              /71 79 7A 7B 7C, CSM v01.5B...}
+PartOfDomain                : True
+PauseAfterReset             : -1
+PCSystemType                : 2
+PrimaryOwnerContact         :
+PrimaryOwnerName            : ACLaw
+ResetCapability             : 1
+ResetCount                  : -1
+ResetLimit                  : -1
+Roles                       : {LM_Workstation, LM_Server, NT, Potential_Browser}
+SupportContactDescription   :
+SystemStartupDelay          :
+SystemStartupOptions        :
+SystemStartupSetting        :
+SystemType                  : x64-based PC
+TotalPhysicalMemory         : 12753944576
+UserName                    : ACLAW\mbrinkord
+WakeUpType                  : 6
+Workgroup                   :
+Scope                       : System.Management.ManagementScope
+Path                        : \\APFL-L-0023\root\cimv2:Win32_ComputerSystem.Name="APFL-L-0023"
+Options                     : System.Management.ObjectGetOptions
+ClassPath                   : \\APFL-L-0023\root\cimv2:Win32_ComputerSystem
+Properties                  : {AdminPasswordStatus, AutomaticManagedPagefile, AutomaticResetBootOption, Automatic
+                              apability...}
+SystemProperties            : {__GENUS, __CLASS, __SUPERCLASS, __DYNASTY...}
+Qualifiers                  : {dynamic, Locale, provider, UUID}
+Site                        :
+Container                   :
