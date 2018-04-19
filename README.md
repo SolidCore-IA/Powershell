@@ -4,15 +4,4 @@ This repo basically holds my personl PowerShell profile for both 5.1 (Windows) a
 
 Disclaimer: I will try (no gaurentees) to code this so it is portable for others...bleeding edge.
 
-*Modules I use:
-get-childitemcolor
-go
-posh-git
-posh-ssh
-psclip
-pscolor
-psftp
-psget
-psreadline
-psurl
-pswatch
+#Jetlife
